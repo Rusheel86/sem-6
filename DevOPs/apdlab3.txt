@@ -1,0 +1,10 @@
+•	Tasks:
+o	Initialize a Git repository.
+o	Perform basic Git operations: add, commit, push, pull.
+o	Create and switch branches.
+o	Resolve merge conflicts.
+o	Collaborate using pull requests on GitHub.
+o	Branching and merging in Git.
+o	Merge Conflicts.
+o	Stashing, Rebasing, Reverting, and Resetting
+o	Git Workflows.
